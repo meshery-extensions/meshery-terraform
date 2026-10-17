@@ -2,7 +2,7 @@
 
 - Status: Proposed
 - Date: 2026-10-16
-- Decision issue: ISSUE_0006
+- Decision issue: [#6](https://github.com/meshery-extensions/meshery-terraform/issues/6)
 - Context: [architecture.md section 4.E](../architecture.md#4e-meshery-as-a-terraform-orchestrator-planapply-runner-remote-backend)
 
 ## Context

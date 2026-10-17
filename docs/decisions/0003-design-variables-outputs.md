@@ -2,7 +2,7 @@
 
 - Status: Proposed
 - Date: 2026-10-16
-- Decision issue: ISSUE_0003
+- Decision issue: [#3](https://github.com/meshery-extensions/meshery-terraform/issues/3)
 - Context: [architecture.md sections 3.2 and 6.2, S6](../architecture.md#32-variables-and-outputs-the--in-the-brief)
 
 ## Context

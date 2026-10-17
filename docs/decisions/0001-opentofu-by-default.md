@@ -2,7 +2,7 @@
 
 - Status: Proposed
 - Date: 2026-10-16
-- Decision issue: ISSUE_0001
+- Decision issue: [#1](https://github.com/meshery-extensions/meshery-terraform/issues/1)
 - Context: [architecture.md section 7.1](../architecture.md#71-licensing-bsl-vs-mpl)
 
 ## Context

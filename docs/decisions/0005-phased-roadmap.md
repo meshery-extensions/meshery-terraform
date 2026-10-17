@@ -2,7 +2,7 @@
 
 - Status: Proposed
 - Date: 2026-10-16
-- Decision issue: ISSUE_0005
+- Decision issue: [#5](https://github.com/meshery-extensions/meshery-terraform/issues/5)
 - Context: [architecture.md section 6.1](../architecture.md#61-phases)
 
 ## Decision (proposed)

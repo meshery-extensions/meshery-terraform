@@ -2,7 +2,7 @@
 
 - Status: Proposed
 - Date: 2026-10-16
-- Decision issue: ISSUE_0002
+- Decision issue: [#2](https://github.com/meshery-extensions/meshery-terraform/issues/2)
 - Context: [architecture.md section 6.2, S3](../architecture.md#62-schema-changes-in-order-mesheryschemas-first), [findings](../../findings/README.md)
 
 ## Context

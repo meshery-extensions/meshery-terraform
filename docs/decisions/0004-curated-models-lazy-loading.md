@@ -2,7 +2,7 @@
 
 - Status: Proposed
 - Date: 2026-10-16
-- Decision issue: ISSUE_0004
+- Decision issue: [#4](https://github.com/meshery-extensions/meshery-terraform/issues/4)
 - Context: [architecture.md sections 3.6 and 7.2](../architecture.md#36-measured-findings-that-constrain-the-design), [findings](../../findings/README.md)
 
 ## Context

@@ -19,12 +19,12 @@ Decide how Meshery (and Kanvas) should support Terraform and OpenTofu. This repo
 
 ## Decisions needed
 
-- [ ] [ADR 0001: OpenTofu by default; Terraform CLI only as a user-supplied binary](docs/decisions/0001-opentofu-by-default.md)
-- [ ] [ADR 0002: Include Terraform mode in component identity](docs/decisions/0002-component-identity-mode.md)
-- [ ] [ADR 0003: Typed design-level variables and outputs](docs/decisions/0003-design-variables-outputs.md)
-- [ ] [ADR 0004: Curated provider model subsets with lazy loading](docs/decisions/0004-curated-models-lazy-loading.md)
-- [ ] [ADR 0005: Phased, schema-first roadmap order](docs/decisions/0005-phased-roadmap.md)
-- [ ] [ADR 0006: Hand off runs to the user's existing runner before native plan/apply](docs/decisions/0006-run-handoff-before-native.md)
+- [ ] [ADR 0001: OpenTofu by default; Terraform CLI only as a user-supplied binary](docs/decisions/0001-opentofu-by-default.md) ([#1](https://github.com/meshery-extensions/meshery-terraform/issues/1))
+- [ ] [ADR 0002: Include Terraform mode in component identity](docs/decisions/0002-component-identity-mode.md) ([#2](https://github.com/meshery-extensions/meshery-terraform/issues/2))
+- [ ] [ADR 0003: Typed design-level variables and outputs](docs/decisions/0003-design-variables-outputs.md) ([#3](https://github.com/meshery-extensions/meshery-terraform/issues/3))
+- [ ] [ADR 0004: Curated provider model subsets with lazy loading](docs/decisions/0004-curated-models-lazy-loading.md) ([#4](https://github.com/meshery-extensions/meshery-terraform/issues/4))
+- [ ] [ADR 0005: Phased, schema-first roadmap order](docs/decisions/0005-phased-roadmap.md) ([#5](https://github.com/meshery-extensions/meshery-terraform/issues/5))
+- [ ] [ADR 0006: Hand off runs to the user's existing runner before native plan/apply](docs/decisions/0006-run-handoff-before-native.md) ([#6](https://github.com/meshery-extensions/meshery-terraform/issues/6))
 
 Each ADR has a matching issue labeled `decision-needed`. Accepting an ADR means changing its status to `Accepted` and closing its issue.
 
