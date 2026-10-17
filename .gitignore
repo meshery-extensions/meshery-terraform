@@ -64,3 +64,16 @@ dist/**
 **errorutil_analyze_summary.json
 **errorutil_errors_export.json
 
+
+# Terraform/OpenTofu working files and large generated dumps (regenerate with findings/scripts/regenerate.sh)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+p.bin
+findings/out/
+prototype/tf2meshery/out/
+schema.json
+*.jsonl
+tofu
+tofu.zip
